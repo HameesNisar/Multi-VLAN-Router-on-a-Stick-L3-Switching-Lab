@@ -76,3 +76,22 @@ Each router also advertises **two loopback networks**, and the routing protocol 
 - Validate connectivity and proper route learning
 
 
+## 📂 Configuration Files
+
+All device configurations are available in this repository under: /configs
+
+---
+
+## 🔗 Tools Used
+
+- **Cisco GNS3**
+- EtherSwitch Router modules
+- Cisco IOS Layer 3 switching features
+
+---
+
+## 👤 Author  
+**Hamees Nisar**  
+CCNP Enterprise (Training) | Network Engineering Labs | 
+
+
